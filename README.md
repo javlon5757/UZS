@@ -1,0 +1,2 @@
+# UZS
+Uzbek first cryptocurrency
